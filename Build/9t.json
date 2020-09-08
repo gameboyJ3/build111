@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Trident - 1",
+"dataUrl": "9t.data.unityweb",
+"wasmCodeUrl": "9t.wasm.code.unityweb",
+"wasmFrameworkUrl": "9t.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
